@@ -38,7 +38,7 @@
 
 
 // version information
-constexpr char programname[] = "fastcsv2json++";
+constexpr char programname[] = "fastcsv2jsonxx";
 constexpr unsigned VERSION_MAJOR = 0;	// major
 constexpr unsigned VERSION_MINOR = 1;	// minor
 constexpr unsigned VERSION_PATCH = 0;	// patch

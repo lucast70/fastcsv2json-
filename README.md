@@ -1,20 +1,24 @@
 # fastcsv2jsonxx
 
-Usage: fastcsv2json++ [OPTION]
-
+Usage: fastcsv2jsonxx [OPTION]
 
 Convert csv to json array
 
-Options:
+Options:  
 
-|                 |     |
-| --------------- | --- |
-| Options:        |     |
-|                 |     |
-| -d, --delimiter |     |
-|                 |     |
-|                 |     |
-|                 |     |
-|                 |     |
-|                 |     |
-|                 |     |
+| -d, --delimiter | Delimiter as pipe, comma, semicolumn, column, space  <br>                           or tab. Default is comma |
+| --------------- | ------------------------------------------------------------------------------------------------------------ |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
+| <br>            | <br>                                                                                                         |
